@@ -1,1 +1,1 @@
-# MyNotes.io
+# MyNotes.github.io
